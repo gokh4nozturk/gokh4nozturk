@@ -10,6 +10,12 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=gokhannozturk&show_icons=true&theme=dracula" />
-
+<details>
+<summary>Most Used Languages</summary>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhannozturk&layout=compact" />
+</details>
+
+<details>
+<summary>Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=gokhannozturk&theme=dracula" >
+</details>
