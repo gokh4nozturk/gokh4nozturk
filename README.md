@@ -1,4 +1,4 @@
-<h2 align="center">hey, I'm Gokhan. 👋🏽 </h2>
+<h2 align="center">hey, I'm Gökhan. 👋🏽 </h2>
 
 <p align="center">
   • <a href="https://twitter.com/bygkhnozturk">Twitter</a>
@@ -10,6 +10,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokhannozturk&show_icons=true&theme=dracula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=gokhannozturk&show_icons=true&theme=dracula" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhannozturk&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhannozturk&layout=compact" />
