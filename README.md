@@ -7,3 +7,7 @@
 ---
 
 - 🌱 I’m currently learning web technologies.
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=gokhaanozturk"></img>
