@@ -10,4 +10,4 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokhaanozturk"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=gokhannozturk&show_icons=true&theme=radical"></img>
