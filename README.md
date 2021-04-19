@@ -12,7 +12,7 @@
 
 <details>
 <summary>Most Used Languages</summary>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhannozturk&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhannozturk&layout=compact" />
 </details>
 
 <details>
