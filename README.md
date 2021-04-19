@@ -10,4 +10,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=gokhannozturk&show_icons=true&theme=radical"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=gokhannozturk&show_icons=true&theme=dracula" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokhannozturk&layout=compact" />
