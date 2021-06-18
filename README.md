@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 I’m currently learning web technologies.
+- 🌱 I’m currently learning web technologies and working as a Front-End Developer.
 
 ---
 
