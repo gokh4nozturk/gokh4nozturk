@@ -3,7 +3,7 @@
 I'm a Software Engineer & I'm currently working as a swe on [teknasyon](https://teknasyon.com/). I'm working on B2B projects & their open-source projects. I love open source development and I build things on my GitHub profile. I love JavaScript & TypeScript ecosystem.
 
 
-
+ - [🐦 Follow me on (Twitter)](https://twitter.com/gokh4nozturk)
  - [🏹 Curriculum vitae (LinkedIn)](https://www.linkedin.com/in/gokhannozturk/)
 
 
