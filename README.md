@@ -1,7 +1,6 @@
 <h2 align="center">Hey, I'm Gökhan. 👋🏽 </h2>
 
-I'm a Software Engineer & I'm currently working as a swe at [teknasyon](https://teknasyon.com/). I'm working on B2B projects & their open-source projects. I love open source development and I build things on my GitHub profile. I love JS ecosystem.
-
+[Checkout my website](https://gokhanozturk.io).
 
  - [🐦 Follow me on (Twitter)](https://twitter.com/gokh4nozturk)
  - [🏹 Curriculum vitae (LinkedIn)](https://www.linkedin.com/in/gokhannozturk/)
