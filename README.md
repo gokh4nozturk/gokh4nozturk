@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Gökhan. 👋🏽 </h2>
 
- - [Checkout my website](https://gokhanozturk.io).
+ - [Checkout my website](https://gokhanozturk.io)
 
  - [🐦 Follow me on (Twitter)](https://twitter.com/gokh4nozturk)
  - [🏹 Curriculum vitae (LinkedIn)](https://www.linkedin.com/in/gokhannozturk/)
