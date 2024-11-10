@@ -14,5 +14,5 @@ hey! my name is gökhan 👋🏽 and i'm a swe in istanbul, tr.
 i'm a design enthusiast, free & open source software contributor & maintainer, and automator of anything that i can.
 
 ## stats
-[![gabe's github stats](https://github-readme-stats.vercel.app/api?username=gokh4nozturk&layout=compact&show_icons=true&theme=dracula)](https://github.com/gokh4nozturk)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![gabe's github stats](https://github-readme-stats.vercel.app/api?username=gokh4nozturk&layout=compact&show_icons=true&theme=graywhite)](https://github.com/gokh4nozturk)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
