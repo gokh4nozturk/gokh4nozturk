@@ -15,4 +15,4 @@ i'm a design enthusiast, free & open source software contributor & maintainer, a
 
 ## stats
 [![gabe's github stats](https://github-readme-stats.vercel.app/api?username=gokh4nozturk&layout=compact&show_icons=true&theme=graywhite)](https://github.com/gokh4nozturk)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=graywhite&hide=css,html,scss,less,cMake)](https://github.com/anuraghazra/github-readme-stats)
