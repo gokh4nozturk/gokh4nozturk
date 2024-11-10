@@ -11,7 +11,7 @@
 ## intro
 hey! my name is gökhan 👋🏽 and i'm a swe in istanbul, tr.
 
-i'm a design enthusiast, free & open source software contributor & maintainer, and automator of anything that i can.
+i'm an enthusiast for well-designed products, free & open source software contributor & maintainer, and automator of anything that i can.
 
 ## stats
 [![gabe's github stats](https://github-readme-stats.vercel.app/api?username=gokh4nozturk&layout=compact&show_icons=true&theme=graywhite)](https://github.com/gokh4nozturk)
