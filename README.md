@@ -14,5 +14,25 @@ hey! my name is gökhan 👋🏽 and i'm a swe in istanbul, tr.
 i'm an enthusiast for well-designed products, free & open source software contributor & maintainer, and automator of anything that i can.
 
 ## stats
-[![gabe's github stats](https://github-readme-stats.vercel.app/api?username=gokh4nozturk&layout=compact&show_icons=true&theme=graywhite)](https://github.com/gokh4nozturk)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=graywhite&hide=css,html,scss,less,cMake)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gokh4nozturk&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gokh4nozturk&show_icons=true&theme=graywhite"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokh4nozturk&show_icons=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=dark&hide=css,html,scss,less,cMake&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="[https://github-readme-stats.vercel.app/api?username=gokh4nozturk](https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=graywhite&hide=css,html,scss,less,cMake)&show_icons=true&theme=graywhite"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=graywhite&hide=css,html,scss,less,cMake&show_icons=true" />
+</picture>
