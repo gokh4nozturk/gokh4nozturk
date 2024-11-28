@@ -16,6 +16,14 @@ i'm an enthusiast for well-designed products, free & open source software contri
 ## stats
 <picture>
   <source
+    srcset="https://www.codewars.com/users/gokhanozturk/badges/micro"
+  />
+  <img src="https://www.codewars.com/users/gokhanozturk/badges/micro" />
+</picture>
+<br/>
+<br/>
+<picture>
+  <source
     srcset="https://github-readme-stats.vercel.app/api?username=gokh4nozturk&show_icons=true&theme=dark&bg_color=0d1117"
     media="(prefers-color-scheme: dark)"
   />
