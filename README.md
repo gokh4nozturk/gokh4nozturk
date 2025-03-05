@@ -3,10 +3,11 @@
 
 <details open>
   <summary>Most Used Languages & Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=gokh4nozturk&theme=dracula" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokh4nozturk&theme=graywhite&show_icons=true&hide_border=true&count_private=true" alt="gokh4nozturk's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&theme=graywhite&show_icons=true&hide_border=true&layout=compact" alt="gokh4nozturk's GitHub Stats" />
 </details>
 -->
+
 
 ## intro
 hey! my name is gökhan 👋🏽 and i'm a swe in istanbul, tr.
