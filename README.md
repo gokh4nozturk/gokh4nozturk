@@ -36,11 +36,11 @@ i'm an enthusiast for well-designed products, free & open source software contri
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=dark&bg_color=0d1117&hide=css,html,scss,less,cMake&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=dark&bg_color=0d1117&hide=css,html,scss,less,cMake,c#,html&show_icons=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=gokh4nozturk](https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=graywhite&hide=css,html,scss,less,cMake)&show_icons=true&theme=graywhite"
+    srcset="[https://github-readme-stats.vercel.app/api?username=gokh4nozturk](https://github-readme-stats.vercel.app/api/top-langs/?username=gokh4nozturk&layout=compact&theme=graywhite&hide=css,html,scss,less,cMake,c#,html)&show_icons=true&theme=graywhite"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokh4nozturk&layout=compact" />
