@@ -10,7 +10,7 @@
 
 
 ## intro
-hey! my name is gökhan 👋🏽 and i'm a swe in istanbul, tr.
+hey! my name is gökhan 👋🏽 and i'm a swe based in istanbul, tr.
 
 i'm an enthusiast for well-designed products, free & open source software contributor & maintainer, and automator of anything that i can.
 
